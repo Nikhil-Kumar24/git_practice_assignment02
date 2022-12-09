@@ -12,7 +12,6 @@ else{
 console.log("Not a Prime number");
 }
 
-// code 
 
  let num=14;
 let c =0;
@@ -27,4 +26,3 @@ console.log("true")
 else{
 console.log("false)
 }
-
